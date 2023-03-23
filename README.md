@@ -65,7 +65,9 @@
 
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/56888440/227104400-d53be6c0-2ff0-4363-a88b-0f47340619a2.png">
 
+### try it out
 
+- put in your own sentence and see the output
 
 
 
