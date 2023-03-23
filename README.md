@@ -1,4 +1,4 @@
-# sentiment-analys
+# sentiment-analysis
 
 ## Objective
 
