@@ -1,10 +1,18 @@
-# sentiment-analysis
+# Sentiment-Analysis
 
 ## Objective
 
 - to be able to predict one’s sentiment based on one's sentence or statement
 
 <img width="337" alt="image" src="https://user-images.githubusercontent.com/56888440/227103247-260db027-32f4-4d02-95d6-e3c6b968c5e1.png">
+
+## What was used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Neattext
+- Sklearn (Pipeline, LogisticRegression, CountVectorizer, train_test_split)
 
 ## Data Proccessing
 
